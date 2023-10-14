@@ -8,8 +8,6 @@ sources:
     tables:
       - name: yellow_trips_data
       - name: green_trips_data
-      - name: green
-      - name: yellow
 
 models:
     - name: stg_green_tripdata
